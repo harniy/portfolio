@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Google Clone",
+        "description": "Search application. Works with google api.",
+        "images": [ {
+            "img": "google.jpg"
+        }, {
+            "img": "google2.jpg"
+        }, {
+            "img": "google3.jpg"
+        }],
+        "stack": ["React", "REST API"],
+        "github": "https://github.com/harniy/google-clone",
+        "web": ""
+    },
+    {
+        "name": "Travel Visor",
+        "description": "Search and sorting application for hotels, restaurants and attractions.",
+        "images": [ {
+            "img": "travel.jpg"
+        }, {
+            "img": "travel2.jpg"
+        }, {
+            "img": "travel3.jpg"
+        }],
+        "stack": ["React", "REST API"],
+        "github": "https://github.com/harniy/travel-visor",
+        "web": ""
+    },
+    {
+        "name": "Helloween",
+        "description": "Simple responsive website with products.",
+        "images": [ {
+            "img": "helloween.jpg"
+        }, {
+            "img": "helloween2.jpg"
+        }, {
+            "img": "helloween3.jpg"
+        }],
+        "stack": ["React"],
+        "github": "https://github.com/harniy/helloween-response",
+        "web": "https://harniy.github.io/helloween-response/"
+    }
+    ,
+    {
+        "name": "Colorize",
+        "description": "Create your own palette of colors and save to the database, or use the ones already created by other users.",
+        "images": [ {
+            "img": "colorized.jpg"
+        }, {
+            "img": "colorized2.jpg"
+        }, {
+            "img": "colorized3.jpg"
+        }],
+        "stack": ["React", "MongoDB", "Node JS"],
+        "github": "https://github.com/harniy/colorize",
+        "web": "https://colorized.ml/"
+    },
+    {
+        "name": "Vibe Music",
+        "description": "Search for music by artist or song title. There is a preview of the track and a link to Deezer.",
+        "images": [ {
+            "img": "vibeMusic.jpg"
+        }, {
+            "img": "vibeMusic2.jpg"
+        }, {
+            "img": "vibeMusic3.jpg"
+        }],
+        "stack": ["React", "REST API"],
+        "github": "https://github.com/harniy/deezer-music",
+        "web": "https://harniy.github.io/deezer-music/"
+    },
+    {
+        "name": "Load Animations",
+        "description": "Large selection of loading animations in pure css.",
+        "images": [ {
+            "img": "Load Animations.jpg"
+        }, {
+            "img": "Load Animations2.jpg"
+        }, {
+            "img": "Load Animations3.jpg"
+        }],
+        "stack": ["Vue"],
+        "github": "https://github.com/harniy/load-animations",
+        "web": "https://cssloaders.ml/"
+    },
+    {
+        "name": "Minify",
+        "description": "Minifies your code. Supports JS, CSS and HTML. You can copy and download the finished file.",
+        "images": [ {
+            "img": "Minify.jpg"
+        }, {
+            "img": "Minify2.jpg"
+        }, {
+            "img": "Minify3.jpg"
+        }],
+        "stack": ["Vue", "Node JS"],
+        "github": "https://github.com/harniy/minify",
+        "web": "https://minify-code.ml/"
+    },
+    {
+        "name": "Resizer",
+        "description": "Crops and transforms the image. It is possible to select the quality and compression ratio of the image.",
+        "images": [ {
+            "img": "Resizer.jpg"
+        }, {
+            "img": "Resizer2.jpg"
+        }, {
+            "img": "Resizer3.jpg"
+        }],
+        "stack": ["Vue"],
+        "github": "https://github.com/harniy/resize-app",
+        "web": "https://resizer.ml/"
+    }
+
+
+]
